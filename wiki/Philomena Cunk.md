@@ -1,8 +1,10 @@
-Philomena Cunk — a character who hosts a collection of [mockumentaries].
+Philomena Cunk — a character who hosts a collection of [mockumentaries]: Cunk On Earth, etc.
 
 [mockumentaries]: Mockumentary.md
 
-## Jokes
+## War vs. hunt
+
+You can only be at war with someone if they can defend themselves against you. Otherwise, you're just hunting them.
 
 <img width="240" alt="17819350981637981912104929224871" src="https://github.com/user-attachments/assets/342e63b5-8ee6-4638-96c7-89febf54bfbd" />
 
