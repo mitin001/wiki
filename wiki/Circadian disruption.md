@@ -1,4 +1,12 @@
-Circadian disruption — the result of exposure to light at night and a risk factor for breast cancer in women and prostate cancer in men. 
+Circadian disruption — the result of exposure to light at night and a risk factor for breast cancer in women and prostate cancer in men.
+
+## Resistance to sunlight is futile
+
+You can't resist the patterns set by sunlight without adverse effects. It's far easier to conform to the sunlight schedule than to try to manage the consequences of standing out.
+
+> Most shift workers, including those working permanent shift schedules, do not appear to adapt their circadian rhythms to their sleep schedule (i.e., melatonin continues to peak at night instead of during their daytime sleep) ... Many workers do not tolerate shift work as evidenced by symptoms that include persistent fatigue, sleep-medication dependence, and mood disturbances such as depression.
+
+[NTP Cancer Hazard Conclusions on Persistent Night Shift Work.](https://ntp.niehs.nih.gov/sites/default/files/ntp/results/pubs/cancer_assessment/lanfinal_summary20210400_508.pdf)
 
 ## Mitigation
 
