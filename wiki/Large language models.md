@@ -4,7 +4,7 @@ A large language model — an entity trained on large samples of text to answer 
 
 What are LLMs really?
 
-> Just wordmath.
+> Just word math.
 
 [On with Kara Swisher: Joanna Stern](https://podcastindex.org/podcast/5665900?episode=54869807814), [transcribed](https://writecomments.com/transcripts/?md5=2bd59a60a0596bf67566fc606970267b).
 
